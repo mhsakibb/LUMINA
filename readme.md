@@ -2,6 +2,8 @@
 
 A modern, responsive creative agency and portfolio website built with clean semantic HTML5 and CSS3.
 
+![Lumina Creative Preview](images/preview.png)
+
 ## Features
 - **Responsive Layout:** Optimized for desktop, tablet, and mobile devices using CSS Flexbox and media queries.
 - **Interactive Gallery:** Grid-based portfolio showcase highlighting creative works and photography.
